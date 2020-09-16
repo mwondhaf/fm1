@@ -10,7 +10,15 @@ Welcome to Macula's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   project.server
+   project.server.config
+   project.server.controllers
+   project.server.decorators
+   project.server.encoders
+   project.server.factories
+   project.server.handlers
+   project.server.helpers
+   project.server.managers
+   project.server.objects
 
 
 
